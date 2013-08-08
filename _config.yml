@@ -1,0 +1,25 @@
+# Jekyll
+permalink: /:year/:month/:day/:title
+
+exclude: nbproject, README.md, manifest.yml, rakefile.rb, Gemfile, Gemfile.lock, update.sh
+
+url: http://skyblue168.github.io
+
+safe:  true
+auto:  true
+future:      false
+pygments:    true
+markdown:    rdiscount
+
+# Site
+FreeLive:
+    title : Free Live
+
+# Only First P Plugin
+only_first_p:
+    show_read_more_link: false
+
+comments :
+    provider : disqus
+    disqus :
+      short_name : skyblue168
