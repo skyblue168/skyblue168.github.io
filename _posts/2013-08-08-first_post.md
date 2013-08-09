@@ -1,6 +1,7 @@
 ---
-title: Hello, My Blog using Jekyll with Github Pages.
 layout: post
+title: Hello, My Blog using Jekyll with Github Pages.
+date: 2013-08-06 12:00
 ---
 
 這個 Blog 是我在知道 Markdown 這個文件格式之後，一步一步學習，瞭解之後，利用學到的知識建立起來的。

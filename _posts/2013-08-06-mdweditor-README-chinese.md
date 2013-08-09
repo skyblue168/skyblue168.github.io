@@ -1,13 +1,14 @@
 ---
 layout : post
-title : mdwEditor : Windows 版的 Markdown Editor
+title: mdwEditor  Windows 版 Markdown 編輯器
+date: 2013-08-06 15:00
 category : "App"
 tags : [markdown, editor, windows]
 ---
 {% include JB/setup %}
 
 
-***Windows 版的 Markdown Editor :***   [下載](/bin/mdwEditor.exe "下載 mdwEditor.exe")
+***Windows 版的 Markdown Editor :***   [下載](/bin/mdwEditor.exe "Download mdwEditor.exe")
 
 ***此程式的功能為編輯 Markdown 文件，可預覽輸出為 Html 的結果，可離線編輯。***
 

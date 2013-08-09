@@ -1,6 +1,7 @@
 ---
 layout: post
-title: mdwEditor : Markdown Editor for Windows OS
+title: mdwEditor   Markdown Editor for Windows OS
+date: 2013-08-06 15:00
 category: "App"
 tags : [markdown, editor, windows]
 ---

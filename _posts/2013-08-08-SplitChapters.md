@@ -1,7 +1,6 @@
 ---
 layout: post
-title: SplitChapters : 文字檔切分章節程式
-date: 2013-08-08 17:45
+title: SplitChapters 文字檔切分章節程式
 category: "App"
 tags: [epub, txt, 小說]
 ---
