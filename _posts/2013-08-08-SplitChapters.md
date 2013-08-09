@@ -1,16 +1,19 @@
 ---
 layout: post
-title: SplitChapters
+title: SplitChapters : 文字檔切分章節程式
 date: 2013-08-08 17:45
-tags: [Config, Mac]
+category: "App"
+tags: [epub, txt, 小說]
 ---
 
-## SplitChapters : 文字檔切分章節程式
+## [SplitChapters 程式下載](/bin/SplitChapters.exe)
 
 ### 主要功能：
 > 將大文字檔依其章節區分方式，by 章節切成個別的檔案。  
 > 程式會在該大文字檔的目錄下產生子目錄 txtsrc，各章節以數字為檔名，存到個別的檔案中。  
 > 其中，0.txt 為目錄檔，可由此檢查切分章節是否正確。製作電子書時不須包含此檔案。  
+> 依章節切分成個別檔案後，配合 [eCub](http://www.juliansmart.com/ecub) ， 可以很快的製作出 epub格式的電子書。
+> 之後再找時間來寫一篇說明介紹整個流程。
 
 ![SplitChapters](/img/splitChapters.jpg)
 
