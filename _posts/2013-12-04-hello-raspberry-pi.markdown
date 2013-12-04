@@ -2,8 +2,8 @@
 layout: post
 title: "Raspberry Pi 試玩心得"
 date: 2013-12-04 13:55
-category: 
-tags: []
+category: "研究"
+tags: [Raspberry Pi]
 ---
 {% include JB/setup %}
 
@@ -19,6 +19,7 @@ tags: []
 但是完成後發現不怎麼方便，主要是缺了：
 
 1. 上傳新文章和圖檔要另外開 FTP 上傳，沒有 Web 介面。
+
 2. 沒有版本控管和備份功能。
 
 不如用原來的 Github + Jekyll 還方便一些。
